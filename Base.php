@@ -12,8 +12,8 @@
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
  *
- * @copyright (c) 2018
- * @author Y&SS-MineBuilderFR
+ * @copyright (c) 2020
+ * @author Y&SS-YassLV
  */
 
 declare(strict_types=1);
